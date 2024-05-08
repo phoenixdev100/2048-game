@@ -22,4 +22,4 @@ An easy 2048 Game on website where you can have fun!!
 
 # Screenshot
 
-![screenshot](https://github.com/phoenixdev100/blob/master/2048-game/screenshot.PNG)
+![screenshot](screenshot.PNG)
